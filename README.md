@@ -7,5 +7,8 @@ this is markdown. I am just writing text
 
 this is how I get *italic*\
 this is how I get **bold**
+this is an image: this one
+![]()
 
-
+library(tidyverse)
+library(compmus)
