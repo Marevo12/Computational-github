@@ -1,0 +1,21 @@
+---
+title: "Computational Musicology Portfolio"
+author: "Mare van Oevelen"
+format: dashboard
+orientation: columns
+editor: visual
+---
+
+# Welcome
+Test
+
+## Column {width=40%}
+Hallo bij mijn portfolio
+
+### Row {height=20%}
+Hoi
+Ik snap het niet
+
+---
+
+## 
