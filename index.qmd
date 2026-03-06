@@ -7,15 +7,17 @@ editor: visual
 ---
 
 # Welcome
-Test
+Computational Portfolio Mare van Oevelen
 
 ## Column {width=40%}
-Hallo bij mijn portfolio
+In the graphs below you can see the analysis of keys and chords of the song we used in class last week. The first graph is the chordogram and the second graph is the keygram.
+
 
 ### Row {height=20%}
-Hoi
-Ik snap het niet
-
 ---
+
+![](chord_comp_week10.png)
+
+![](keys_comp_week10.png)
 
 ## 
