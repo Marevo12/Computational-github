@@ -6,18 +6,30 @@ orientation: columns
 editor: visual
 ---
 
-# Welcome
-Computational Portfolio Mare van Oevelen
+# Corpus description
 
-## Column {width=40%}
-In the graphs below you can see the analysis of keys and chords of the song we used in class last week. The first graph is the chordogram and the second graph is the keygram.
+Work in progress
 
+# Chromagram
 
-### Row {height=20%}
----
+## Column {width="40%"}
 
-![](chord_comp_week10.png)
+For the homework assignment of week 9 I created a chromagram of the track These Walls by Dua Lipa. The chromagram shows what notes one can hear during the song and when they occur. They are not necessarily shown in the right octave.
 
-![](keys_comp_week10.png)
+Visible in the chromagram is that the tone Ab occurs the most. This could indicate that Ab is the tonic of the song, which in this case is correct. Besides Ab, the tones F, Eb and C are used very frequently. This could mean that chords such as Ab major (Ab, C, Eb), c minor (C, Eb, G) and f minor (F, Ab, C) are used frequently in the song.
 
-## 
+## ###Row
+
+![](dualipa_chromagram2.png)
+
+## \### Row {height="20%"}
+
+# Dendrogram
+
+## Column
+
+This is a dendrogram that contains the full discography of Billie Eilish and Dua Lipa.
+
+## ###Row
+
+![](dendrogram_duabillie_4.png)
