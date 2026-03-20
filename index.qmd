@@ -28,7 +28,9 @@ Visible in the chromagram is that the tone Ab occurs the most. This could indica
 
 ## Column
 
-This is a dendrogram that contains the full discography of Billie Eilish and Dua Lipa.
+This is a dendrogram that contains the full discography of Billie Eilish and Dua Lipa. Both discographies are in the dataset and used in the dendrogram. On the x-axis are the names of the songs, which are in random order. On the y-axis the difference between the songs are shown.
+
+As we can see there are a lot of tiny branches connecting two songs, which means many songs are considered to be alike. As expected, there are also some bigger branches, which means that there are also songs that are not alike at all. Both artists make music that have a completely different sound, so it makes a lot of sense that the dendrogram shows that they are not very similar.
 
 ## ###Row
 
