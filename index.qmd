@@ -1,16 +1,20 @@
 ---
-title: "Computational Musicology Portfolio"
+title: "Portfolio"
 author: "Mare van Oevelen"
 format: dashboard
 orientation: columns
 editor: visual
 ---
 
-# Corpus description
+# Background
 
-Work in progress
+Dua Lipa vs Billie eilish. Both artists in pop genre, but have different sounds. Both have 3 studio albums which are used in this project. Analysis will be done about all albums, but also some specific songs for more in depth insights.
 
-# Chromagram
+# Track-level features
+
+What insights into your corpus can be drawn from Spotify's track-level features (valence, danceability, etc.)?
+
+# Chroma features
 
 ## Column {width="40%"}
 
@@ -24,7 +28,23 @@ Visible in the chromagram is that the tone Ab occurs the most. This could indica
 
 ## \### Row {height="20%"}
 
-# Dendrogram
+# Timbre features
+
+What insights can be drawn from timbre features? (self similarity matrices)
+
+# Loudness
+
+What insights can be drawn from 'loudness' (power) features?
+
+# Temporal features
+
+What is notable, effective, or ineffective about structural segments, meter, rhythm, or beats in your corpus, as derived from Spotify features?
+
+# Classification/regression
+
+Where explicit labels in your corpus exist, how strong are spotify features for classification/regression?
+
+# Clustering
 
 ## Column
 
@@ -35,3 +55,7 @@ As we can see there are a lot of tiny branches connecting two songs, which means
 ## ###Row
 
 ![](dendrogram_duabillie_4.png)
+
+# Contribution
+
+What have you learned from this set of analyses? Who could these conclusions benefit and how?
