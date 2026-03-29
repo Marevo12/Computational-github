@@ -50,13 +50,13 @@ Danceability is a musical feature that is also shown on a scale from 0 to 1. Dan
 
 ## ###Row
 
+![](images/combi2_energy.1-01.png)
+
 ![](images/combi2_energy.1.png)
 
 ![](images/combi2_valence.1.png)
 
 ![](images/combi2_danceability.1.png)
-
-![](images/combi2_energy+valence.1.png)
 
 # Chroma features
 
