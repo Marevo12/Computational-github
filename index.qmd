@@ -46,11 +46,9 @@ In musical analysis the term “valence” is used to describe how positive list
 
 **Danceability levels comparison:**
 
-Danceability is a musical feature that is also shown on a scale from 0 to 1. Danceability describes the urge a listener has to dance to a song. A low level means a low urge to dance and a high level means a high urge to dance to a song. Once again the tracks by Billie Eilish show a lot of variation in danceability levels. Almost half of the songs are between 0.25 and 0.50, and almost another half is between 0.70 and 1.00. Dua Lipa’s tracks are perceived to have a higher level of danceability. Almost all songs are above 0.50, with an outlier between 0.65 and 0.75, which consists of 20 songs. \
+Danceability is a musical feature that is also shown on a scale from 0 to 1. Danceability describes the urge a listener has to dance to a song. A low level means a low urge to dance and a high level means a high urge to dance to a song. Once again the tracks by Billie Eilish show a lot of variation in danceability levels. Almost half of the songs are between 0.25 and 0.50, and almost another half is between 0.70 and 1.00. Dua Lipa’s tracks are perceived to have a higher level of danceability. Almost all songs are above 0.50, with an outlier between 0.65 and 0.75, which consists of 20 songs.\
 
 ## ###Row
-
-![](images/combi2_energy.1-01.png)
 
 ![](images/combi2_energy.1.png)
 
