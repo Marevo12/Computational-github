@@ -62,7 +62,7 @@ Danceability is a musical feature that is also shown on a scale from 0 to 1. Dan
 
 These two chromagrams show the chroma information about two Dua Lipa songs: Be The One and Don't Start Now. More information in progress.
 
-Also two more chromagrams coming about Billie Eilish: Your Power and Oxytocin.
+Also two more chromagrams coming about Billie Eilish: Your Power and Oxytocin. This is a work in progress.
 
 ## ###Row
 
