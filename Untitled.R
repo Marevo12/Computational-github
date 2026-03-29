@@ -20,11 +20,11 @@ bzt3 <- read.csv("~/Documents/Computational/mfcc_betheone.1.csv")
 
 bzt4 <- read.csv("~/Documents/Computational/mfcc_dontstartnow.1.csv")
 
-chordo1 <- read.csv("~/Documents/Computational/chromagram_betheone.2.csv")
+chordo1 <- read_csv("~/Documents/Computational/chromagram_betheone.2.csv")
 
-chordo2 <- read.csv("~/Documents/Computational/chordogram.trial.dsn.1.csv")
+chordo2 <- read_csv("~/Documents/Computational/chordogram.trial.dsn.1.csv")
 
-chordo3 <- read.csv("~/Documents/Computational/chromagram_yourpower1.csv")
+chordo3 <- read_csv("~/Documents/Computational/chromagram_yourpower1.csv")
 
-chordo4 <- read.csv("~/Documents/Computational/chromagram_oxytocin.1.csv")
+chordo4 <- read_csv("~/Documents/Computational/chromagram_oxytocin.1.csv")
 

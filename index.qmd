@@ -60,9 +60,23 @@ Danceability is a musical feature that is also shown on a scale from 0 to 1. Dan
 
 ## Column {width="40%"}
 
-These two chromagrams show the chroma information about two Dua Lipa songs: Be The One and Don't Start Now. More information in progress.
+Chromagrams:
 
-Also two more chromagrams coming about Billie Eilish: Your Power and Oxytocin. This is a work in progress.
+**Be The One - Dua Lipa:**
+
+The chromagram of “Be The One” shows that the F major chord (F-A-C) is the central chord of the song. When the Eb tone is added to this F major chord it becomes the F7 chord, a dominant seventh. 
+
+**Don’t Start Now - Dua Lipa:**
+
+The chromagram of “Don’t Start Now” shows that the B minor chord (B-D-F#) is a chord that occurs quite a lot. The tone A can be added to this chord to make it a Bm7 chord. 
+
+**Your Power - Billie Eilish:**
+
+The chromagram of “Your Power” shows that the notes A, C and E are used most frequently, which leads to an A minor chord. Occasionally the G tone is also played, which makes an Am7 chord.
+
+**Oxytocin - Billie Eilish:**
+
+The chromagram of “Oxytocin” is slightly harder to read. There are not many tones that stick out, which makes it difficult to find a central chord. However, the E and G are most present in the song. Combine those with a G and it seems that E minor could be a central chord in the song.
 
 ## ###Row
 
@@ -88,7 +102,7 @@ Oxytocin - Billie Eilish
 
 # Cepstrograms
 
-What insights can be drawn from timbre features? (self similarity matrices)
+Cepstrograms about the four selected songs.
 
 ## ###Row
 
@@ -114,7 +128,7 @@ Oxytocin - Billie Eilish
 
 ## Column
 
-Self simirarity matrices
+Self similarity matrices that show the four selected songs.
 
 ## ###Row
 
@@ -140,7 +154,23 @@ Oxytocin - Billie Eilish
 
 ## Column
 
-uitleg
+**Be The One - Dua Lipa:**
+
+This keygram shows what key “Be The One” by Dua Lipa is most likely in. F major and seems to be the darkest and therefore the most likely to be the key of the song. Bb major is another possible key.
+
+**Don’t Start Now - Dua Lipa**
+
+This keygram shows what key “Don’t Start Now” by Dua Lipa is most likely in. B minor and E minor both seem to have a high possibility to be the key of the song. 
+
+**Your Power - Billie Eilish**
+
+This keygram shows what key “Your Power” by Billie Eilish is most likely in. There is one key that stands out in this keygram: A minor. C major also seems like a good candidate.
+
+**Oxytocin - Billie Eilish**
+
+This keygram shows what key “Oxytocin” by Billie Eilish is most likely in. E minor stands out in the graph and seems like a good candidate. However, B major and E major also seem like possibilities.
+
+\
 
 ## ###Row
 
@@ -166,7 +196,23 @@ Oxytocin - Billie Eilish
 
 ## Column
 
-uitleg
+**Be The One - Dua Lipa**
+
+In this chordogram of “Be The One” there are a few chords that stand out and are likely to be used frequently in the song. F major, F7,  D minor, Eb minor and Eb7 are most visible in the chordogram. This aligns with the suspected key of F major. \
+
+**Don’t Start Now - Dua Lipa**
+
+In this chordogram of “Don’t Start Now” the E7 chord stands out the most, as it is immediately visible. Other chords that seem to occur a lot are B minor, A7, A minor, E minor, D7 and D major. As E minor and B minor are possible candidates for the key, these chords lead a little bit more towards B minor.\
+
+**Your Power - Billie Eilish**
+
+In this chordogram of “Your Power” by Billie Eilish A minor seems to be the chord that is used most frequently. This makes a lot of sense, as A minor also seems to be the key. E minor and D minor also occur much, which aligns with A minor as the key of the song.\
+
+**Oxytocin - Billie Eilish**
+
+In this chordogram of “Oxytocin” by Billie Eilish E7, G7 and C7 seem to be frequently used in the song.
+
+\
 
 ## ###Row
 
@@ -190,4 +236,8 @@ Oxytocin - Billie Eilish
 
 # Conclusion
 
-What have you learned from this set of analyses? Who could these conclusions benefit and how?
+The findings in this portfolio show that there is indeed a difference in musical characteristics between Billie Eilish and Dua Lipa. This is noticeable when listening to the songs, and is now confirmed by this data. 
+
+As much as they sound different, both artists seem to belong in the pop genre.
+
+\
