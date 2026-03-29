@@ -6,15 +6,47 @@ orientation: columns
 editor: visual
 ---
 
-# Background
+# Corpus description
 
-Dua Lipa vs Billie eilish. Both artists in pop genre, but have different sounds. Both have 3 studio albums which are used in this project. Analysis will be done about all albums, but also some specific songs for more in depth insights.
+For my corpus I decided to look into the musical differences between two very popular female artists of this time: Billie Eilish and Dua Lipa. Both artists are singer-songwriters in the same genre, namely Pop music. However, they have very different sounds.
+
+Billie Eilish is a 24-year old artist from the United States of America. Her music is mainly labelled as pop music, with subgenres such as electropop and alt-pop.
+
+Dua Lipa is a British/Albanian artist, born in London. She is 30 years old. Lipa’s music is also classified as pop music, with subgenres such as dance-pop and synthpop. 
+
+Both artists have three studio albums, which I have used to study their musical features. Some analysis is done regarding the complete selection of songs. This looks into energy, valence and danceability. Other features are better investigated per song. To do this I have randomly selected four longs, two of each artist. With these songs I have explored chroma features, timbre features, structure, tempo and beats. 
+
+“Be The One” is a single by Dua Lipa that came out in 2015. It was part of the album “Dua Lipa”, which is her first studio album. 
+
+“Don’t Start Now” is the first single of Dua Lipa’s second studio album, called “Future Nostalgia”. The single came out in 2019. 
+
+“Your Power” is Billie Eilishes third single from the album “Happier Than Ever”, which is her second studio album. The track was released in 2021.\
+
+“Oxytocin” is a song on the album “Happier Than Ever”, by Billie Eilish. The song came out in 2021.
+
+I decided to randomly pick these songs to prevent bias in selecting songs that would either differ more or less, based on my personal preferences. 
 
 # Track-level features
 
 ## Column
 
-What insights into your corpus can be drawn from Spotify's track-level features (valence, danceability, etc.)?
+To draw insights into track-level features I took all three studio albums by both artists and looked into energy, valence and danceability levels. The three albums by Billie Eilish consist of 40 songs, and the albums by Dua Lipa have a total of 47 songs.
+
+\
+
+**Energy levels comparison:**
+
+In this first graph the x-axis shows the amount of songs. The y-axis shows the energy level that is computed by the API. This is a number between 0 and 1, 0 meaning a song has a  low energy level and 1 meaning a high energy level. It is visible in the graph that songs by Billie Eilish tend to have much lower energy levels, as most of her songs are classified to have a lower energy level than 0.5. Dua Lipa’s songs, on the other hand, show the opposite. Most of her songs have an energy level above 0.5. \
+\
+
+**Valence levels comparison:**
+
+In musical analysis the term “valence” is used to describe how positive listeners think a track sounds. Valence is measured on a scale from 0 to 1, where 0 represents a sad and negative feeling and 1 represents a happy and positive feeling. In the second graph it is visible that both artists have different levels of valence in their music. Billie Eilish’ songs are divided into more different levels than Dua Lipa’s. Just over half of Billie Eilish’ songs have a score lower than 0.5, and a little less than half score over 0.5, some songs even scoring over 0.75. Dua Lipa’s tracks are a little less divided. All of her songs have a valence level over 0.25 and are almost equally divided over the levels. There is one outlier between 0.25 and 0.50, which consists of more than 10 songs.\
+\
+
+**Danceability levels comparison:**
+
+Danceability is a musical feature that is also shown on a scale from 0 to 1. Danceability describes the urge a listener has to dance to a song. A low level means a low urge to dance and a high level means a high urge to dance to a song. Once again the tracks by Billie Eilish show a lot of variation in danceability levels. Almost half of the songs are between 0.25 and 0.50, and almost another half is between 0.70 and 1.00. Dua Lipa’s tracks are perceived to have a higher level of danceability. Almost all songs are above 0.50, with an outlier between 0.65 and 0.75, which consists of 20 songs. \
 
 ## ###Row
 
@@ -36,40 +68,128 @@ Also two more chromagrams coming about Billie Eilish: Your Power and Oxytocin.
 
 ## ###Row
 
+**Chromagrams**
+
+Be The One - Dua Lipa
+
 ![](images/chromagram_bto.1.png)
+
+Don't Start Now - Dua Lipa
 
 ![](images/chromagram_dsn.1.png)
 
+Your Power - Billie Eilish
+
+![](chromagram_yp1.png)
+
+Oxytocin - Billie Eilish
+
+![](chromagram_oxy1.png)
+
 ## \### Row {height="20%"}
 
-# Timbre features
+# Cepstrograms
 
 What insights can be drawn from timbre features? (self similarity matrices)
 
-# Loudness
+## ###Row
 
-What insights can be drawn from 'loudness' (power) features?
+**Cepstrograms**
 
-# Temporal features
+Be The One - Dua Lipa
 
-What is notable, effective, or ineffective about structural segments, meter, rhythm, or beats in your corpus, as derived from Spotify features?
+![](cepstrogram_bto.1.png)
 
-# Classification/regression
+Don't Start Now - Dua Lipa
 
-Where explicit labels in your corpus exist, how strong are spotify features for classification/regression?
+![](cepstrogram_dsn.1.png)
 
-# Clustering
+Your Power - Billie Eilish
+
+![](cepstrogram_yp.1.png)
+
+Oxytocin - Billie Eilish
+
+![](cepstrogram_oxy.1.png)
+
+# Self Similarity Matrices
 
 ## Column
 
-This is a dendrogram that contains the full discography of Billie Eilish and Dua Lipa. Both discographies are in the dataset and used in the dendrogram. On the x-axis are the names of the songs, which are in random order. On the y-axis the difference between the songs are shown.
-
-As we can see there are a lot of tiny branches connecting two songs, which means many songs are considered to be alike. As expected, there are also some bigger branches, which means that there are also songs that are not alike at all. Both artists make music that have a completely different sound, so it makes a lot of sense that the dendrogram shows that they are not very similar.
+Self simirarity matrices
 
 ## ###Row
 
-![](dendrogram_duabillie_4.png)
+**Self Similarity Matrices**
 
-# Contribution
+Be The One - Dua Lipa
+
+![](ssm_bto.1.png)
+
+Don't Start Now - Dua Lipa
+
+![](ssm_dsn.1.png)
+
+Your Power - Billie Eilish
+
+![](ssm_yp.1.png)
+
+Oxytocin - Billie Eilish
+
+![](ssm_oxy.2.png)
+
+# Key estimation
+
+## Column
+
+uitleg
+
+## ###Row
+
+**Keygrams**
+
+Be The One - Dua Lipa
+
+![](chordogram_bto.2.png)
+
+Don't Start Now - Dua Lipa
+
+![](chordogram_dsn.1.png)
+
+Your Power - Billie Eilish
+
+![](chordogram_yp.1.png)
+
+Oxytocin - Billie Eilish
+
+![](chordogram_oxy.2.png)
+
+# Chord estimation
+
+## Column
+
+uitleg
+
+## ###Row
+
+**Chordograms**
+
+Be The One - Dua Lipa
+
+![](keygram_bto.1.png)
+
+Don't Start Now - Dua Lipa
+
+![](keygram_dsn.2.png)
+
+Your Power - Billie Eilish
+
+![](keygram_yp.1.png)
+
+Oxytocin - Billie Eilish
+
+![](keygram_oxy.1.png)
+
+# Conclusion
 
 What have you learned from this set of analyses? Who could these conclusions benefit and how?
