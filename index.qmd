@@ -30,25 +30,39 @@ I decided to randomly pick these songs to prevent bias in selecting songs that w
 
 ## Column
 
+### ####Blok 1
+
+**Interpretation**
+
+### ####Blok 2
+
 To draw insights into track-level features I took all three studio albums by both artists and looked into energy, valence and danceability levels. The three albums by Billie Eilish consist of 40 songs, and the albums by Dua Lipa have a total of 47 songs.
 
-\
+### ####Blok 3
 
-**Energy levels comparison:**
+*Energy levels*
 
 In this first graph the x-axis shows the amount of songs. The y-axis shows the energy level that is computed by the API. This is a number between 0 and 1, 0 meaning a song has a  low energy level and 1 meaning a high energy level. It is visible in the graph that songs by Billie Eilish tend to have much lower energy levels, as most of her songs are classified to have a lower energy level than 0.5. Dua Lipa’s songs, on the other hand, show the opposite. Most of her songs have an energy level above 0.5. \
-\
 
-**Valence levels comparison:**
+### ####Blok 4
 
-In musical analysis the term “valence” is used to describe how positive listeners think a track sounds. Valence is measured on a scale from 0 to 1, where 0 represents a sad and negative feeling and 1 represents a happy and positive feeling. In the second graph it is visible that both artists have different levels of valence in their music. Billie Eilish’ songs are divided into more different levels than Dua Lipa’s. Just over half of Billie Eilish’ songs have a score lower than 0.5, and a little less than half score over 0.5, some songs even scoring over 0.75. Dua Lipa’s tracks are a little less divided. All of her songs have a valence level over 0.25 and are almost equally divided over the levels. There is one outlier between 0.25 and 0.50, which consists of more than 10 songs.\
-\
+*Valence levels*
 
-**Danceability levels comparison:**
+In musical analysis the term “valence” is used to describe how positive listeners think a track sounds. Valence is measured on a scale from 0 to 1, where 0 represents a sad and negative feeling and 1 represents a happy and positive feeling. In the second graph it is visible that both artists have different levels of valence in their music. Billie Eilish’ songs are divided into more different levels than Dua Lipa’s. Just over half of Billie Eilish’ songs have a score lower than 0.5, and a little less than half score over 0.5, some songs even scoring over 0.75. Dua Lipa’s tracks are a little less divided. All of her songs have a valence level over 0.25 and are almost equally divided over the levels. There is one outlier between 0.25 and 0.50, which consists of more than 10 songs.
+
+### ####Blok 5
+
+*Danceability levels*
 
 Danceability is a musical feature that is also shown on a scale from 0 to 1. Danceability describes the urge a listener has to dance to a song. A low level means a low urge to dance and a high level means a high urge to dance to a song. Once again the tracks by Billie Eilish show a lot of variation in danceability levels. Almost half of the songs are between 0.25 and 0.50, and almost another half is between 0.70 and 1.00. Dua Lipa’s tracks are perceived to have a higher level of danceability. Almost all songs are above 0.50, with an outlier between 0.65 and 0.75, which consists of 20 songs.\
 
 ## ###Row
+
+### ####Blok 1
+
+**Visualization**
+
+### ####Blok 2
 
 ![](images/combi2_energy.1.png)
 
@@ -60,41 +74,55 @@ Danceability is a musical feature that is also shown on a scale from 0 to 1. Dan
 
 ## Column {width="40%"}
 
-Chromagrams:
+### ####Blok 1
 
-**Be The One - Dua Lipa:**
+**Interpretation**
+
+### ####BLok 2
+
+*Be The One - Dua Lipa*
 
 The chromagram of “Be The One” shows that the F major chord (F-A-C) is the central chord of the song. When the Eb tone is added to this F major chord it becomes the F7 chord, a dominant seventh. 
 
-**Don’t Start Now - Dua Lipa:**
+### ####Blok 3
+
+*Don’t Start Now - Dua Lipa*
 
 The chromagram of “Don’t Start Now” shows that the B minor chord (B-D-F#) is a chord that occurs quite a lot. The tone A can be added to this chord to make it a Bm7 chord. 
 
-**Your Power - Billie Eilish:**
+### ####Blok 4
+
+*Your Power - Billie Eilish*
 
 The chromagram of “Your Power” shows that the notes A, C and E are used most frequently, which leads to an A minor chord. Occasionally the G tone is also played, which makes an Am7 chord.
 
-**Oxytocin - Billie Eilish:**
+### ####Blok 5
+
+*Oxytocin - Billie Eilish*
 
 The chromagram of “Oxytocin” is slightly harder to read. There are not many tones that stick out, which makes it difficult to find a central chord. However, the E and G are most present in the song. Combine those with a G and it seems that E minor could be a central chord in the song.
 
 ## ###Row
 
-**Chromagrams**
+### ####Blok 1
 
-Be The One - Dua Lipa
+**Visualization**
+
+### ####Blok 2
+
+*Chromagram of 'Be The One'*
 
 ![](images/chromagram_bto.1.png)
 
-Don't Start Now - Dua Lipa
+*Chromagram of 'Don't Start Now'*
 
 ![](images/chromagram_dsn.1.png)
 
-Your Power - Billie Eilish
+*Chromagram of 'Your Power'*
 
 ![](chromagram_yp1.png)
 
-Oxytocin - Billie Eilish
+*Chromagram of 'Oxytocin'*
 
 ![](chromagram_oxy1.png)
 
@@ -102,25 +130,57 @@ Oxytocin - Billie Eilish
 
 # Cepstrograms
 
-Cepstrograms about the four selected songs.
+## Column
+
+### ####Blok 1
+
+**Interpretation**
+
+### ####Blok 2
+
+*Be The One - Dua Lipa*
+
+hier info schrijven
+
+### ####Blok 3
+
+*Don't Start Now - Dua Lipa*
+
+hier info schrijven
+
+### ####Blok 4
+
+*Your Power - Billie Eilish*
+
+hier info schrijven
+
+### ####Blok 5
+
+*Oxytocin - Billie Eilish*
+
+hier info schrijven
 
 ## ###Row
 
-**Cepstrograms**
+### ####Blok 1
 
-Be The One - Dua Lipa
+**Visualization**
+
+### ####Blok 2
+
+*Cepstrogram of 'Be The One'*
 
 ![](cepstrogram_bto.1.png)
 
-Don't Start Now - Dua Lipa
+*Cepstrogram of 'Don't Start Now'*
 
 ![](cepstrogram_dsn.1.png)
 
-Your Power - Billie Eilish
+*Cepstrogram of 'Your Power'*
 
 ![](cepstrogram_yp.1.png)
 
-Oxytocin - Billie Eilish
+*Cepstrogram of 'Oxytocin'*
 
 ![](cepstrogram_oxy.1.png)
 
@@ -128,25 +188,55 @@ Oxytocin - Billie Eilish
 
 ## Column
 
-Self similarity matrices that show the four selected songs.
+### ####Blok 1
+
+**Interpretation**
+
+### ####Blok 2
+
+*Be The One - Dua Lipa*
+
+hier info schrijven
+
+### ####Blok 3
+
+*Don't Start Now - Dua Lipa*
+
+hier info schrijven
+
+### ####Blok 4
+
+*Your Power - Billie Eilish*
+
+hier info schrijven
+
+### ####Blok 5
+
+*Oxytocin - Billie Eilish*
+
+hier info schrijven
 
 ## ###Row
 
-**Self Similarity Matrices**
+### ####Blok 1
 
-Be The One - Dua Lipa
+**Visualizations**
+
+### ####Blok 2
+
+*Self-Similarity Matrix of 'Be The One'*
 
 ![](ssm_bto.1.png)
 
-Don't Start Now - Dua Lipa
+*Self-Similarity Matrix of 'Don't Start Now'*
 
 ![](ssm_dsn.1.png)
 
-Your Power - Billie Eilish
+*Self-Similarity Matrix of 'Your Power'*
 
 ![](ssm_yp.1.png)
 
-Oxytocin - Billie Eilish
+*Self-Similarity Matrix of 'Oxytocin'*
 
 ![](ssm_oxy.2.png)
 
@@ -154,19 +244,31 @@ Oxytocin - Billie Eilish
 
 ## Column
 
-**Be The One - Dua Lipa:**
+### ####Blok 1
+
+**Interpretation**
+
+### ####Blok 2
+
+*Be The One - Dua Lipa*
 
 This keygram shows what key “Be The One” by Dua Lipa is most likely in. F major and seems to be the darkest and therefore the most likely to be the key of the song. Bb major is another possible key.
 
-**Don’t Start Now - Dua Lipa**
+### ####Blok 3
+
+*Don’t Start Now - Dua Lipa*
 
 This keygram shows what key “Don’t Start Now” by Dua Lipa is most likely in. B minor and E minor both seem to have a high possibility to be the key of the song. 
 
-**Your Power - Billie Eilish**
+### ####Blok 4
+
+*Your Power - Billie Eilish*
 
 This keygram shows what key “Your Power” by Billie Eilish is most likely in. There is one key that stands out in this keygram: A minor. C major also seems like a good candidate.
 
-**Oxytocin - Billie Eilish**
+### ####Blok 5
+
+*Oxytocin - Billie Eilish*
 
 This keygram shows what key “Oxytocin” by Billie Eilish is most likely in. E minor stands out in the graph and seems like a good candidate. However, B major and E major also seem like possibilities.
 
@@ -174,21 +276,25 @@ This keygram shows what key “Oxytocin” by Billie Eilish is most likely in. E
 
 ## ###Row
 
-**Keygrams**
+### ####Blok 1
 
-Be The One - Dua Lipa
+**Visualization**
+
+### ####Blok 2
+
+*Keygram of 'Be The One'*
 
 ![](chordogram_bto.2.png)
 
-Don't Start Now - Dua Lipa
+*Keygram of 'Don't Start Now'*
 
 ![](chordogram_dsn.1.png)
 
-Your Power - Billie Eilish
+*Keygram of 'Your Power'*
 
 ![](chordogram_yp.1.png)
 
-Oxytocin - Billie Eilish
+*Keygram of 'Oxytocin'*
 
 ![](chordogram_oxy.2.png)
 
@@ -196,19 +302,31 @@ Oxytocin - Billie Eilish
 
 ## Column
 
-**Be The One - Dua Lipa**
+### ####Blok 1
 
-In this chordogram of “Be The One” there are a few chords that stand out and are likely to be used frequently in the song. F major, F7,  D minor, Eb minor and Eb7 are most visible in the chordogram. This aligns with the suspected key of F major. \
+**Interpretation**
 
-**Don’t Start Now - Dua Lipa**
+### ####Blok 2
 
-In this chordogram of “Don’t Start Now” the E7 chord stands out the most, as it is immediately visible. Other chords that seem to occur a lot are B minor, A7, A minor, E minor, D7 and D major. As E minor and B minor are possible candidates for the key, these chords lead a little bit more towards B minor.\
+*Be The One - Dua Lipa*
 
-**Your Power - Billie Eilish**
+In this chordogram of “Be The One” there are a few chords that stand out and are likely to be used frequently in the song. F major, F7,  D minor, Eb minor and Eb7 are most visible in the chordogram. This aligns with the suspected key of F major. 
 
-In this chordogram of “Your Power” by Billie Eilish A minor seems to be the chord that is used most frequently. This makes a lot of sense, as A minor also seems to be the key. E minor and D minor also occur much, which aligns with A minor as the key of the song.\
+### ####Blok 3 
 
-**Oxytocin - Billie Eilish**
+*Don’t Start Now - Dua Lipa*
+
+In this chordogram of “Don’t Start Now” the E7 chord stands out the most, as it is immediately visible. Other chords that seem to occur a lot are B minor, A7, A minor, E minor, D7 and D major. As E minor and B minor are possible candidates for the key, these chords lead a little bit more towards B minor.
+
+### ####Blok 4 
+
+*Your Power - Billie Eilish*
+
+In this chordogram of “Your Power” by Billie Eilish A minor seems to be the chord that is used most frequently. This makes a lot of sense, as A minor also seems to be the key. E minor and D minor also occur much, which aligns with A minor as the key of the song.
+
+### ####Blok 5 
+
+*Oxytocin - Billie Eilish*
 
 In this chordogram of “Oxytocin” by Billie Eilish E7, G7 and C7 seem to be frequently used in the song.
 
@@ -216,21 +334,25 @@ In this chordogram of “Oxytocin” by Billie Eilish E7, G7 and C7 seem to be f
 
 ## ###Row
 
-**Chordograms**
+### ####Blok 1
 
-Be The One - Dua Lipa
+**Visualization**
+
+### ####Blok 2
+
+*Chordogram of 'Be The One'*
 
 ![](keygram_bto.1.png)
 
-Don't Start Now - Dua Lipa
+*Chordogram of 'Don't Start Now'*
 
 ![](keygram_dsn.2.png)
 
-Your Power - Billie Eilish
+*Chordogram of 'Your Power'*
 
 ![](keygram_yp.1.png)
 
-Oxytocin - Billie Eilish
+*Chordogram of 'Oxytocin'*
 
 ![](keygram_oxy.1.png)
 
@@ -239,18 +361,3 @@ Oxytocin - Billie Eilish
 The findings in this portfolio show that there is indeed a difference in musical characteristics between Billie Eilish and Dua Lipa. This is noticeable when listening to the songs, and is now confirmed by this data. 
 
 As much as they sound different, both artists seem to belong in the pop genre.
-
-# Test
-
-even checken of dit nog werkt x2
-
-# Gameplan
-
-Oke wat moet er allemaal gebeuren:
-
-1.  Interpretation moet overal beter
-2.  Analysis overal toevoegen, goed kunnen uitleggen wat de plaatjes dus betekenen
-3.  Communication and Presentation (even in de rubric op canvas checken wat daar allemaal onder valt)
-4.  Transfer of learning –\> verbetert denk ik automatisch bij aanvulling van bovenstaande.
-
-Conclusie: completer maken en dieper ingaan op wat de plaatjes betekenen. Evt meer plaatjes toevoegen, maar hier mee beginnen.
