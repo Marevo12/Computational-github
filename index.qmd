@@ -8,13 +8,13 @@ editor: visual
 
 # Corpus description
 
-For my corpus I decided to look into the musical differences between two very popular female artists of this time: Billie Eilish and Dua Lipa. Both artists are singer-songwriters in the same genre, namely Pop music. However, they have very different sounds.
+For my corpus I decided to look into the musical differences between two very popular female artists of this time: Dua Lipa and Billie Eilish. Both artists are singer-songwriters in the same genre, namely Pop music. However, they have very different sounds.
 
-Billie Eilish is a 24-year old artist from the United States of America. Her music is mainly labelled as pop music, with subgenres such as electropop and alt-pop.
+Dua Lipa is a British/Albanian artist, born in London. She is 30 years old. Lipa’s music is classified as pop music, with subgenres such as dance-pop and synthpop.
 
-Dua Lipa is a British/Albanian artist, born in London. She is 30 years old. Lipa’s music is also classified as pop music, with subgenres such as dance-pop and synthpop. 
+Billie Eilish is a 24-year old artist from the United States of America. Her music is also mainly labelled as pop music, with subgenres such as electropop and alt-pop. 
 
-Both artists have three studio albums, which I have used to study their musical features. Some analysis is done regarding the complete selection of songs. This looks into energy, valence and danceability. Other features are better investigated per song. To do this I have randomly selected four longs, two of each artist. With these songs I have explored chroma features, timbre features, structure, tempo and beats. 
+Both artists have three studio albums, which I have used to study their musical features. Some analyses are done taking into account the complete selection of songs. This looks into energy, valence and danceability. Other features are better investigated per song. To do this I have randomly selected four longs, two of each artist. With these songs I have explored chroma features, timbre features, structure, tempo and beats. 
 
 “Be The One” is a single by Dua Lipa that came out in 2015. It was part of the album “Dua Lipa”, which is her first studio album. 
 
@@ -142,9 +142,9 @@ The chromagram of “Oxytocin” is slightly harder to read. There are not many 
 
 In the cepstrogram of “Be The One” there are multiple things that are interesting to take a closer look at. The first and most noticeable thing is the overall consistency in the frequencies that are visible. There are clear and visible horizontal lines throughout the whole duration of the song. This means that the overall timbre of the song stays relatively steady, and that there are few abrupt changes. This is fitting as many pop songs tend to have a very stable sound.
 
-Secondly, the mfcc_02 has a very strong presence. The lower coefficients of a cepstrogram relate to the global sound of a track. The strong presence can be explained by the consistent presence of the bass, drums and synthesizers. Although the mfcc_02 is the most present coefficient, it is also the most fluctuating coefficient. This can be because these frequencies are very decisive for the overall shape of the song. The changes between verse and refrain are defined by these frequencies, which is visible in the cepstrogram as there is a spike in the mfcc_02 when the refrain starts.
+Secondly, the mfcc_02 has a very strong presence. The lower coefficients of a cepstrogram relate to the global sound of a track. The strong presence can be explained by the consistent presence of the bass, drums and synthesizers. Although the mfcc_02 is the most present coefficient, it is also the most fluctuating coefficient. This can be because these frequencies are very decisive for the overall shape of the song. The changes between verse and chorus are defined by these frequencies, which is visible in the cepstrogram as there is a spike in the mfcc_02 when the chorus starts.
 
-Although the cepstrogram shows very steady coefficients throughout the song, there are some slight variations around 80s and 120s. This could be linked to the refrains that are playing at those times. Refrains often have some extra backing vocals or more instrumental layering, which could explain the fluctuation of the coefficients. Another variation can be spotted around 160/170s, which can be explained by the softer bridge of the song. There is less instrumentation and softer singing. 
+Although the cepstrogram shows very steady coefficients throughout the song, there are some slight variations around 80s and 120s. This could be linked to the choruses that are playing at those times. Choruses often have some extra backing vocals or more instrumental layering, which could explain the fluctuation of the coefficients. Another variation can be spotted around 160/170s, which can be explained by the softer bridge of the song. There is less instrumentation and softer singing. 
 
 Overall, the cepstrogram of “Be The One” shows a very stable distribution of coefficients, which is very much fitting the sound of the song.
 
@@ -152,9 +152,9 @@ Overall, the cepstrogram of “Be The One” shows a very stable distribution of
 
 *Don't Start Now - Dua Lipa*
 
-In the cepstrogram of “Don’t Start Now” the mfcc_02 shows the most movement. It is the most present coefficient, but also the most fluctuating. The lower coefficients, which include the mfcc_02, provide information about the global sound of the song. This fluctuation can be explained by the changes in the bass and drums of the song. These two play a big role in defining the rhythmic feeling of a song. This is fitting, because the song is very groove-oriented, and transitions from verse to refrain are audible very well. When comparing the sound of the song to the cepstrogram, the fluctuations of the mfcc_02 seem to fit very well.
+In the cepstrogram of “Don’t Start Now” the mfcc_02 shows the most movement. It is the most present coefficient, but also the most fluctuating. The lower coefficients, which include the mfcc_02, provide information about the global sound of the song. This fluctuation can be explained by the changes in the bass and drums of the song. These two play a big role in defining the rhythmic feeling of a song. This is fitting, because the song is very groove-oriented, and transitions from verse to chorus are audible very well. When comparing the sound of the song to the cepstrogram, the fluctuations of the mfcc_02 seem to fit very well.
 
-Apart from the mfcc_02 in the lower region, it is clear that the entire lower region is more present and variating than the higher region. This means that the overall sound and timbral qualities of the song show some variations, but that there are few differences on a more detailed level. There are clear differences in sound between verses and refrains, but on a more detailed level the song seems to sound very equal. When listening to the song, you can also hear this. There are clear transitions between parts of the song, but there are not a lot of small differences between parts. 
+Apart from the mfcc_02 in the lower region, it is clear that the entire lower region is more present and variating than the higher region. This means that the overall sound and timbral qualities of the song show some variations, but that there are few differences on a more detailed level. There are clear differences in sound between verses and choruses, but on a more detailed level the song seems to sound very equal. When listening to the song, you can also hear this. There are clear transitions between parts of the song, but there are not a lot of small differences between parts. 
 
 In conclusion, the cepstrogram of “Don’t Start Now” seems to be very suitable to the sound of the song. \
 
@@ -166,7 +166,7 @@ The cepstrogram of “Your Power” once again shows the strongest presence from
 
 Not only the mfcc_02 is consistently present, but most other coefficients are very stable. There are some small changes in the lower regions, but these seem to be more gradual changes instead of abrupt changes. The higher regions of the cepstrogram show little changes.
 
-Overall, this cepstrogram pictures a steady overall sound of a song, which is very fitting to the song.\
+Overall, this cepstrogram pictures a steady overall sound of a song, which is very fitting to "Your Power".\
 
 ### ####Blok 5
 
@@ -177,8 +177,6 @@ Lastly, the cepstrogram of “Oxytocin” also shows some interesting images. Li
 When looking at the cepstrogram there are two moments that visibly stand out. Around 75 seconds and 175 seconds there is an abrupt change in magnitudes. These two moments are two pauses in which the song is almost completely silent right before a beatdrop. These are some abrupt changes in sound and timbre and therefore clearly visible in the cepstrogram.
 
 In conclusion, the sound of the song seems to be quite steady, although there are some nice fluctuations visible which fit the sound of the song.
-
-\
 
 ## ###Row
 
@@ -216,25 +214,37 @@ In conclusion, the sound of the song seems to be quite steady, although there ar
 
 *Be The One - Dua Lipa*
 
-hier info schrijven
+The self-similarity matrix of “Be The One” shows a highly structured and consistent pattern of vertical and horizontal lines. This demonstrates the high grade of repetition in the song. This pattern of repetition is consistent throughout the whole song. This matches the repetitive character of the song. 
+
+Nearing the end, around 185 seconds, the light colored line indicates a breaking point in the repetitive character of the pattern. This matches the part in the song where the bridge transitions into the last chorus.
+
+This self-similarity matrix shows a pattern that would be expected for a standard pop song like “Be The One”.
 
 ### ####Blok 3
 
 *Don't Start Now - Dua Lipa*
 
-hier info schrijven
+The self-similarity matrix of “Don’t Start Now” shows many square and rectangular blocks. These blocks suggest different sections in the song, which correspond with the verses and choruses. For example: there are four blocks around the diagonal line. Each lasting around 50 seconds. The first and second block look quite similar, but the third block has a different pattern compared to the first two blocks. This is explained by the fact that this part of the song is the bridge. 
+
+The bright blocks indicate repetition. This is reflected in the structure of the song, which consists of a verse, followed by a chorus, another similar verse and repetition of the chorus, bridge and one final repetition of the chorus. The bright yellow lines indicate the transitions between the verses and choruses, which mark the borders of the square blocks that are visible. 
+
+This pattern with a clear structure and many repetitions is also typical for a pop song like “Don’t Start Now”.
 
 ### ####Blok 4
 
 *Your Power - Billie Eilish*
 
-hier info schrijven
+The self-similarity matrix of “Your Power” shows a very steady repetitive pattern. There are less clear blocks than in the previous song. This is caused by the fact that “Your Power” is not a song with distinct differences between verse and chorus. It is a song without accelerations, it has a very consistent rhythm, chord scheme and strumming pattern. The many repeating bright lines show a more continuous repetition of parts of the song, there is no clear division into sections. 
+
+This pattern is typical for an acoustic song like “Your Power” and a bit different from the typical pop songs.
 
 ### ####Blok 5
 
 *Oxytocin - Billie Eilish*
 
-hier info schrijven
+The self-similarity matrix of “Oxytocin” shows that the song can be divided into three clear sections, as presented by the three visible square blocks around the diagonal line. The first two blocks are very similar, the third block is slightly different. The thin bright yellow lines at the beginning and ending of the first two blocks, indicate the transition. This can be heard in the song as a small pause. The thick yellow line in the third block represents a longer pause within the third section of the song. 
+
+Like the previous song, this song is also not divided into the typical verse/chorus structure of standard pop songs.
 
 ## ###Row
 
@@ -292,8 +302,6 @@ This keygram shows what key “Your Power” by Billie Eilish is most likely in.
 
 This keygram shows what key “Oxytocin” by Billie Eilish is most likely in. E minor stands out in the graph and seems like a good candidate. However, B major and E major also seem like possibilities.
 
-\
-
 ## ###Row
 
 ### ####Blok 1
@@ -350,8 +358,6 @@ In this chordogram of “Your Power” by Billie Eilish A minor seems to be the 
 
 In this chordogram of “Oxytocin” by Billie Eilish E7, G7 and C7 seem to be frequently used in the song.
 
-\
-
 ## ###Row
 
 ### ####Blok 1
@@ -378,6 +384,14 @@ In this chordogram of “Oxytocin” by Billie Eilish E7, G7 and C7 seem to be f
 
 # Conclusion
 
-The findings in this portfolio show that there is indeed a difference in musical characteristics between Billie Eilish and Dua Lipa. This is noticeable when listening to the songs, and is now confirmed by this data. 
+This portfolio was designed to investigate differences in musical features between Dua Lipa and Billie Eilish. 
 
-As much as they sound different, both artists seem to belong in the pop genre.
+Track-level analysis indicates differences in energy levels, valence levels and danceability levels between both artists' selected repertoire. The music by Dua Lipa has higher energy levels, higher and less diverse valence levels and much higher danceability levels than Billie Eilish’s music. 
+
+The analysis of chroma features, key estimation and chord estimation don’t seem to contribute a lot to the comparison between the different sounds of both pop artists. It is possible that the analysis should contain many more songs to find a distinct pattern or draw a feasible conclusion. 
+
+The cepstrograms show that the selected Dua Lipa songs have much more variance in overall timbral sound than the songs by Billie Eilish. The latter show a more consistent timbral flow. 
+
+The self-similarity matrices seem to contribute most to the conclusion on the differences between the music of Dua Lipa and Billie Eilish. The songs by Dua Lipa are clear examples of standard pop songs, while the songs by Billie Eilish have a less standard pattern. 
+
+In conclusion, both artists belong to the same genre: pop music. However the fact that the music of these artists sounds different, is confirmed by these analyses.
