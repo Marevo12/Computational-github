@@ -140,25 +140,45 @@ The chromagram of “Oxytocin” is slightly harder to read. There are not many 
 
 *Be The One - Dua Lipa*
 
-hier info schrijven
+In the cepstrogram of “Be The One” there are multiple things that are interesting to take a closer look at. The first and most noticeable thing is the overall consistency in the frequencies that are visible. There are clear and visible horizontal lines throughout the whole duration of the song. This means that the overall timbre of the song stays relatively steady, and that there are few abrupt changes. This is fitting as many pop songs tend to have a very stable sound.
+
+Secondly, the mfcc_02 has a very strong presence. The lower coefficients of a cepstrogram relate to the global sound of a track. The strong presence can be explained by the consistent presence of the bass, drums and synthesizers. Although the mfcc_02 is the most present coefficient, it is also the most fluctuating coefficient. This can be because these frequencies are very decisive for the overall shape of the song. The changes between verse and refrain are defined by these frequencies, which is visible in the cepstrogram as there is a spike in the mfcc_02 when the refrain starts.
+
+Although the cepstrogram shows very steady coefficients throughout the song, there are some slight variations around 80s and 120s. This could be linked to the refrains that are playing at those times. Refrains often have some extra backing vocals or more instrumental layering, which could explain the fluctuation of the coefficients. Another variation can be spotted around 160/170s, which can be explained by the softer bridge of the song. There is less instrumentation and softer singing. 
+
+Overall, the cepstrogram of “Be The One” shows a very stable distribution of coefficients, which is very much fitting the sound of the song.
 
 ### ####Blok 3
 
 *Don't Start Now - Dua Lipa*
 
-hier info schrijven
+In the cepstrogram of “Don’t Start Now” the mfcc_02 shows the most movement. It is the most present coefficient, but also the most fluctuating. The lower coefficients, which include the mfcc_02, provide information about the global sound of the song. This fluctuation can be explained by the changes in the bass and drums of the song. These two play a big role in defining the rhythmic feeling of a song. This is fitting, because the song is very groove-oriented, and transitions from verse to refrain are audible very well. When comparing the sound of the song to the cepstrogram, the fluctuations of the mfcc_02 seem to fit very well.
+
+Apart from the mfcc_02 in the lower region, it is clear that the entire lower region is more present and variating than the higher region. This means that the overall sound and timbral qualities of the song show some variations, but that there are few differences on a more detailed level. There are clear differences in sound between verses and refrains, but on a more detailed level the song seems to sound very equal. When listening to the song, you can also hear this. There are clear transitions between parts of the song, but there are not a lot of small differences between parts. 
+
+In conclusion, the cepstrogram of “Don’t Start Now” seems to be very suitable to the sound of the song. \
 
 ### ####Blok 4
 
 *Your Power - Billie Eilish*
 
-hier info schrijven
+The cepstrogram of “Your Power” once again shows the strongest presence from the mfcc_02. In this cepstrogram it is mostly steady and shows little fluctuations. This means that the overall sound and timbral feeling of the song is steady. This matches the way the song sounds when listening to it. It is a very slow and calm song with few abrupt changes, and that fits the presence of the mfcc_02.
+
+Not only the mfcc_02 is consistently present, but most other coefficients are very stable. There are some small changes in the lower regions, but these seem to be more gradual changes instead of abrupt changes. The higher regions of the cepstrogram show little changes.
+
+Overall, this cepstrogram pictures a steady overall sound of a song, which is very fitting to the song.\
 
 ### ####Blok 5
 
 *Oxytocin - Billie Eilish*
 
-hier info schrijven
+Lastly, the cepstrogram of “Oxytocin” also shows some interesting images. Like the first three songs, “Oxytocin” also shows a dominant presence of the mfcc_02. This is similar to the other songs, however, in this cepstrogram the mfcc_04 also has a very dominant presence. Their dominance can be justified by the strong bassline and beats that define the song. When listening to the song you hear these two being the fundamental base of the song, which supports their strong presence.
+
+When looking at the cepstrogram there are two moments that visibly stand out. Around 75 seconds and 175 seconds there is an abrupt change in magnitudes. These two moments are two pauses in which the song is almost completely silent right before a beatdrop. These are some abrupt changes in sound and timbre and therefore clearly visible in the cepstrogram.
+
+In conclusion, the sound of the song seems to be quite steady, although there are some nice fluctuations visible which fit the sound of the song.
+
+\
 
 ## ###Row
 
